@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"seafair_cmms.projects"},{"v":2,"unique":true,"key":{"strName":1},"name":"strName_1","ns":"seafair_cmms.projects","background":true}],"uuid":"9256b9ef452e43c396799e3c0fee02c4"}

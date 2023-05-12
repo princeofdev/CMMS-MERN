@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"seafair_cmms.scheduleddrills"},{"v":2,"unique":true,"key":{"strCode":1},"name":"strCode_1","ns":"seafair_cmms.scheduleddrills","background":true}],"uuid":"c437ff6ab6f44098b47b0bb269f00958"}

@@ -1,0 +1,96 @@
+%!Adobe-FontList 1.22
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BankGothicBold
+FamilyName:BankGothic
+StyleName:Bold
+FullName:BankGothic Bold
+MenuName:BankGothic
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\MK\Desktop\SeaFair_Forms_DO_v6M_Package\Document fonts\BankGothic Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:22560
+FileModTime:1590580970
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,BankGothic Bold
+NameArray:0,Win,1,BankGothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Bold
+FamilyName:Montserrat
+StyleName:Bold
+FullName:Montserrat Bold
+MenuName:Montserrat
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\MK\Desktop\SeaFair_Forms_DO_v6M_Package\Document fonts\Montserrat-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:244468
+FileModTime:1323720000
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Bold
+FamilyName:PT Sans
+StyleName:Bold
+FullName:PT Sans Bold
+MenuName:PT Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\MK\Desktop\SeaFair_Forms_DO_v6M_Package\Document fonts\PT_Sans-Web-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:470240
+FileModTime:1285012800
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans Bold
+NameArray:0,Mac,4,PT Sans Bold
+NameArray:0,Win,1,PT Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PTSans-Regular
+FamilyName:PT Sans
+StyleName:Regular
+FullName:PT Sans
+MenuName:PT Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\MK\Desktop\SeaFair_Forms_DO_v6M_Package\Document fonts\PT_Sans-Web-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:442960
+FileModTime:1285012800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,PT Sans
+NameArray:0,Mac,4,PT Sans
+NameArray:0,Win,1,PT Sans
+%EndFont
+
